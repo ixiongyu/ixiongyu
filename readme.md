@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 
 ### NetEase Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.163.com/#/playlist?id=8218475)
 
 ### Connect with me:
 
