@@ -34,6 +34,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- DEVTO:START -->
+- [Hello](https://dev.to/ixiongyu/hello-j0p)
 <!-- DEVTO:END -->
 
 ➡️ [more blog posts...](https://dev.to/ixiongyu)
