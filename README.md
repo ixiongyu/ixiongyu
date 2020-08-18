@@ -1,6 +1,6 @@
 ### Hi there, I'm XiongYu - aka [服务器宕机了][website] 👋
 
-## I'm a  Developer!
+## You will know who am I
 
 - 🔭 I’m currently working on a [IntelliJ Idea Plugin][website]!
 - 🌱 I’m currently learning everything 🤣
