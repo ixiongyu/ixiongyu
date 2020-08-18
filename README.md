@@ -54,6 +54,9 @@
   <summary>:zap: Recent Github Activity</summary>
 
  <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#430](https://github.com//elunez/eladmin/issues/430) in [elunez/eladmin](https://github.com//elunez/eladmin)
+2. ❗️ Opened issue [#430](https://github.com//elunez/eladmin/issues/430) in [elunez/eladmin](https://github.com//elunez/eladmin)
+<!--END_SECTION:activity-->
 
 </details>
 
