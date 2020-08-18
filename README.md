@@ -33,10 +33,10 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
-<!--➡️ [more blog posts...](https://codestackr.com)-->
+➡️ [more blog posts...](https://dev.to/ixiongyu)
 
 ---
 
