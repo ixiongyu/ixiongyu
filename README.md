@@ -19,7 +19,7 @@
 
 
 ### NetEase Playing 🎧
-[<img src="![image](https://user-images.githubusercontent.com/11729558/132690182-adf9862d-3b4c-43b7-8516-dd619da92e05.png)" alt="XiongYu NetEase Playing" width="350" />](https://music.163.com/#/playlist?id=8218475)
+[<img src="https://www.logo.wine/a/logo/NetEase_Music/NetEase_Music-Logo.wine.svg" alt="XiongYu NetEase Playing" width="350" />](https://music.163.com/#/playlist?id=8218475)
 
 
 ### Languages and Tools:
